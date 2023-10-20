@@ -1,0 +1,2 @@
+# MavenJenkinsGitIntegration
+Test Automation Framework
